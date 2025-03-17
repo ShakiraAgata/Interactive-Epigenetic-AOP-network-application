@@ -14,7 +14,7 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 This personal project aims to show the available epigenetic-related AOPs from AOP-Wiki in network-format. Epigenetics is a research domain that has value in environmental risk evaluation through the relation between environmental chemical exposures and subsequent epigenetic modifications. 
-My goal was to establish the inventory of epigenetic process-related AOPs in AOP-Wik using my own automated approach. This project is intended to be viewed on the provided webpage. On the webpage, users can play with different styles of the network and can see the descriptive information belonging to the AOP network.
+My goal was to establish the inventory of epigenetic process-related AOPs in AOP-Wiki using my own automated approach. This project is intended to be viewed on the provided webpage. On the webpage, users can play with different styles of the network and can see the descriptive information belonging to the AOP network.
 
 
 
